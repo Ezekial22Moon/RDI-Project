@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":5,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":3,"maxLevel":99,"name":"Princess Enthusiasm","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":43,"dataId":11,"value":1}],"initialLevel":3,"maxLevel":99,"name":"Hero Top Producer","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_6","characterIndex":5,"characterName":"Actor2","classId":5,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":3,"maxLevel":99,"name":"Mystic Rebuttal","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":5,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor2","traits":[],"initialLevel":3,"maxLevel":99,"name":"Elvin Closer","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Corey","characterIndex":0,"characterName":"Cory","classId":2,"equips":[2,0,2,3,0],"faceIndex":0,"faceName":"Cory2","traits":[],"initialLevel":11,"maxLevel":99,"name":"Cory Boudreau","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Drew","characterIndex":0,"characterName":"Drew","classId":3,"equips":[3,0,2,3,0],"faceIndex":0,"faceName":"Drew","traits":[],"initialLevel":11,"maxLevel":99,"name":"Andrew Bailey","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":4,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fairy","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"Ron Swogger","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Ron Swogger 2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ron Swogger","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
