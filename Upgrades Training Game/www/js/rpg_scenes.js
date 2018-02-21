@@ -2138,6 +2138,7 @@ Scene_Name.prototype.createInputWindow = function() {
 
 Scene_Name.prototype.onInputOk = function() {
     this._actor.setName(this._editWindow.name());
+    courseComplete(this._editWindow.name());
     this.popScene();
 };
 
